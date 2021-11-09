@@ -4,7 +4,7 @@ author: Hossein Darvish
 email: tmjam.ahmed@gmail.com
 phone: (650) 576-5403
 github: https://github.com/HDarvish
-about: I am a Mechanical Engineer and an artist.
+about: I am a Mechanical Engineer and an Artist.
 disqus_shortname: programming
 google_analytics: UA-31048387-6
 avatar_url: /static/img/me.jpg
@@ -27,7 +27,7 @@ social:
     # - icon: fa-stack-exchange
     #   link: "#"
     - icon: fa-github
-      link: "https://github.com/tmjam"
+      link: "https://github.com/HDarvish"
 
 share:
   twitter_username: tmjam3011
