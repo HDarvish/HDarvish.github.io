@@ -10,4 +10,4 @@ I am currently a Ph.D. student in Mechanical Engineering. I consider myself as a
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## Resume
-<iframe src="https://drive.google.com/file/d/1o4sMk4WkFT4MmykU2I7ze6QgTz7RQOga/view?usp=sharing" width="100%" height="900"></iframe>
+<iframe src="https://drive.google.com/file/d/1o4sMk4WkFT4MmykU2I7ze6QgTz7RQOga/view" width="100%" height="900"></iframe>
