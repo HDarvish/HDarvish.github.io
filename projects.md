@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-Few of my projects. Currently doing more in backend, focused in Python and Django.
+Here are some of the projects that I have done. Currently, I am working on the simulation of Li-ion batteries to improve the performance of thermal management of such systems. 
