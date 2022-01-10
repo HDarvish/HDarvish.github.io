@@ -32,6 +32,7 @@ social:
 share:
   twitter_username: dar__wish
   # fb_appid: 1749788565247320
+  # Let's find how we can make the repo private!
 
 urls:
     - text: About Me
