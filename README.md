@@ -32,6 +32,9 @@
 3. Edit your projects at file of `projects.md`, `_data/projects.json` and inside path of `_project/` _(for detail project)_.
 4. Edit about yourself inside file of `about.md`
 
+### Note
+It seems that you can not make this repo private! if you do so, you lost your website. Then, if you change the default to the public again, you must change some items in the repo to have your webite back (like just adding some comments)!
+
 ### How to Use?
 
 **a. Add new Category**
