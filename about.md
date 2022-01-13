@@ -13,6 +13,8 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 <iframe src="https://drive.google.com/file/d/1o4sMk4WkFT4MmykU2I7ze6QgTz7RQOga/view?usp=sharing" width="100%" height="900"></iframe>
 
 
+<iframe src="https://drive.google.com/file/d/1o4sMk4WkFT4MmykU2I7ze6QgTz7RQOga/preview" width="640" height="480" allow="autoplay"></iframe>
+
 <iframe src="https://drive.google.com/file/d/1o4sMk4WkFT4MmykU2I7ze6QgTz7RQOga/view?usp=sharing"></iframe>
 
 
