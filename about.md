@@ -11,3 +11,10 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 
 ## Resume
 <iframe src="https://drive.google.com/file/d/1o4sMk4WkFT4MmykU2I7ze6QgTz7RQOga/view?usp=sharing" width="100%" height="900"></iframe>
+
+https://drive.google.com/file/d/1o4sMk4WkFT4MmykU2I7ze6QgTz7RQOga/view?usp=sharing
+https://drive.google.com/file/d/1o4sMk4WkFT4MmykU2I7ze6QgTz7RQOga/view?usp=sharing
+
+## Resume
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTmZmJPq3Y9gf7VnVrkEx4taspr5iFsaB-wgLT5SF3i6oxrl2jJq7Bmyf9jOiTXUC0sv1D9CLvQcr0H/pub?embedded=true"></iframe>
