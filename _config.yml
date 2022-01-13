@@ -1,8 +1,8 @@
 title: Hossein Darvish
 description: Stuff that I come across and find interesting.
 author: Hossein Darvish
-email: darvish.mec@gmail.com
-phone: (+39) 351-5835532
+email: hossein.darvish@unisalento.it
+#phone: (+39) 351-5835532
 github: https://github.com/HDarvish
 about: I am a Mechanical Engineer and an Artist.
 disqus_shortname: programming
@@ -40,7 +40,7 @@ urls:
     - text: Projects
       url: /projects/
     - text: Blogs
-      url: /blogs/
+      url: /Photos/
     - text: XML Feed
       url: /feed.xml
 # url: "http://localhost:4000"
