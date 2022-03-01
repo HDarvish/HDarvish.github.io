@@ -33,6 +33,7 @@ share:
   twitter_username: dar__wish
   # fb_appid: 1749788565247320
   # Let's find how we can make the repo private!
+  # When the page is private, others do not access to the website link! 
 
 urls:
     - text: About Me
